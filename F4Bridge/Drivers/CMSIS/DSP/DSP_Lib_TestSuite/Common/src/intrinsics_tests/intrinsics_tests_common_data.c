@@ -187,3 +187,4 @@ const q63_t intrinsics_q63_inputs[INTRINSICS_MAX_LEN] =
 /* The source data is random across the q63_t range. Accessing it by word should
    remain random. */
 const q31_t * intrinsics_q31_inputs = (q31_t *) intrinsics_q63_inputs;
+

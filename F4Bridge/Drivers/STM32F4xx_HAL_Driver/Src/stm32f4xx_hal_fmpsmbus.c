@@ -2673,3 +2673,4 @@ static void FMPSMBUS_ConvertOtherXferOptions(FMPSMBUS_HandleTypeDef *hfmpsmbus)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -62,3 +62,4 @@ arm_status ref_mat_scale_q15(
 	
 	return ARM_MATH_SUCCESS;
 }
+

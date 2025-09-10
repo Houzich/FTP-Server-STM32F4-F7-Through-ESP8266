@@ -76,3 +76,4 @@ void arm_convolve_HWC_q7_ref_nonsquare(const q7_t * Im_in,  // input image
         }
     }
 }
+

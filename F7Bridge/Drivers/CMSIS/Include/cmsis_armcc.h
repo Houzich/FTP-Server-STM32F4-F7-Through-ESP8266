@@ -863,3 +863,4 @@ __attribute__((always_inline)) __STATIC_INLINE uint32_t __USAT(int32_t val, uint
 
 
 #endif /* __CMSIS_ARMCC_H */
+

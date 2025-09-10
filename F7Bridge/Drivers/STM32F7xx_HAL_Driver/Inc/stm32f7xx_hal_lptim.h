@@ -818,3 +818,4 @@ void LPTIM_Disable(LPTIM_HandleTypeDef *hlptim);
 #endif /* STM32F7xx_HAL_LPTIM_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

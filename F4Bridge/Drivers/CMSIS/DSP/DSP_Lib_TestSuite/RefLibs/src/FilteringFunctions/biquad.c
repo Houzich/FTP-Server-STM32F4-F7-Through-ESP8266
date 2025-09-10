@@ -711,3 +711,4 @@ void ref_biquad_cascade_df1_q15(
 
   } while (--stage);
 }
+

@@ -324,3 +324,4 @@ HAL_NOR_StatusTypeDef HAL_NOR_GetStatus(NOR_HandleTypeDef *hnor, uint32_t Addres
 #endif /* __STM32F4xx_HAL_NOR_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

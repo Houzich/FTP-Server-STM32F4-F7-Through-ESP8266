@@ -17,3 +17,4 @@ JTEST_DEFINE_GROUP(matrix_tests)
     JTEST_GROUP_CALL(mat_scale_tests);
     return;
 }
+

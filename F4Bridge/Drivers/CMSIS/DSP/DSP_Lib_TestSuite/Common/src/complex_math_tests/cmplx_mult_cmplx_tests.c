@@ -29,3 +29,4 @@ JTEST_DEFINE_GROUP(cmplx_mult_cmplx_tests)
     JTEST_TEST_CALL(arm_cmplx_mult_cmplx_q31_test);
     JTEST_TEST_CALL(arm_cmplx_mult_cmplx_q15_test);
 }
+

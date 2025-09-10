@@ -41,3 +41,4 @@ void arm_fully_connected_mat_q7_vec_q15_ref(const q15_t * pV,   // pointer to ve
         pOut[i] = (q15_t) __SSAT((ip_out >> out_shift), 16);
     }
 }
+

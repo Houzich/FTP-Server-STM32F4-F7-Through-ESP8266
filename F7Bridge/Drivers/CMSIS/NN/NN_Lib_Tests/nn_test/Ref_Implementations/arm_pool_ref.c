@@ -94,3 +94,4 @@ void arm_maxpool_q7_HWC_ref(const q7_t * Im_in, // input image
         }
     }
 }
+

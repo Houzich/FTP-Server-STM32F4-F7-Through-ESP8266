@@ -8,3 +8,4 @@ JTEST_DEFINE_GROUP(support_tests)
     JTEST_GROUP_CALL(x_to_y_tests);
     return;
 }
+

@@ -181,3 +181,4 @@ fvp_mps2.iotss_systemcontrol.cpu0wait=0               # (bool  , init-time) defa
 fvp_mps2.iotss_systemcontrol.cpu1wait=1               # (bool  , init-time) default = '1'      : Whether to hold cpu1 in reset at boot
 fvp_mps2.iotss_cpuidentity.debugger_master_id=0xFFFFFFFF  # (int   , init-time) default = '0xFFFFFFFF' :  : [0x0..0xFFFFFFFF]
 #----------------------------------------------------------------------------------------------
+

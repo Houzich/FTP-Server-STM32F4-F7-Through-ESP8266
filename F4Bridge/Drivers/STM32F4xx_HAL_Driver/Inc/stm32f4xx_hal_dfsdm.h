@@ -1142,3 +1142,4 @@ void HAL_DFSDM_BitStreamClkDistribution_Config(uint32_t source);
 #endif /* __STM32F4xx_HAL_DFSDM_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

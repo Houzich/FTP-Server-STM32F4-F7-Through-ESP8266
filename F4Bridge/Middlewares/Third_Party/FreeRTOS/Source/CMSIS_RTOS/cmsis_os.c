@@ -1725,3 +1725,4 @@ uint32_t osSemaphoreGetCount(osSemaphoreId semaphore_id)
 {
   return uxSemaphoreGetCount(semaphore_id);
 }
+

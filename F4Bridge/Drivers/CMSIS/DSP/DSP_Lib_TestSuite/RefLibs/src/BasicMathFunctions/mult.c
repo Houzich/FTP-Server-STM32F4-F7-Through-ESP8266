@@ -62,3 +62,4 @@ void ref_mult_q7(
 		pDst[i] = ref_sat_q7(temp);
 	}
 }
+

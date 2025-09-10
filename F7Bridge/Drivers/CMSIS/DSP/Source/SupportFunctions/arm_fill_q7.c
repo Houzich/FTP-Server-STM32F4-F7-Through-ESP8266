@@ -104,3 +104,4 @@ void arm_fill_q7(
 /**
  * @} end of Fill group
  */
+

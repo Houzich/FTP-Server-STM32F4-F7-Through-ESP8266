@@ -50,3 +50,4 @@
     MAX(MIN(high, value), low)
 
 #endif /* _UTIL_H_ */
+

@@ -51,3 +51,4 @@ void ref_negate_q7(
 		pDst[i] = -pSrc[i];
 	}
 }
+

@@ -107,3 +107,4 @@ arm_status arm_fir_interpolate_init_f32(
  /**
   * @} end of FIR_Interpolate group
   */
+

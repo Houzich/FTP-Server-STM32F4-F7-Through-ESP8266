@@ -412,3 +412,4 @@ extern DMA2D_HandleTypeDef hdma2d_discovery;
 #endif /* __STM32F769I_DISCOVERY_LCD_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

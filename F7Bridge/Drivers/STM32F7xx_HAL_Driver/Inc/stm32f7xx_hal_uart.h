@@ -1530,3 +1530,4 @@ void UART_AdvFeatureConfig(UART_HandleTypeDef *huart);
 #endif /* STM32F7xx_HAL_UART_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

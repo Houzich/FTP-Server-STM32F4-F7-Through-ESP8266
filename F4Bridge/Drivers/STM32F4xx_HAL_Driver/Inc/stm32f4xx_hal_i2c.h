@@ -741,3 +741,4 @@ uint32_t HAL_I2C_GetError(I2C_HandleTypeDef *hi2c);
 #endif /* __STM32F4xx_HAL_I2C_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -447,3 +447,4 @@ void arm_dct4_f32(
 /**
    * @} end of DCT4_IDCT4 group
    */
+

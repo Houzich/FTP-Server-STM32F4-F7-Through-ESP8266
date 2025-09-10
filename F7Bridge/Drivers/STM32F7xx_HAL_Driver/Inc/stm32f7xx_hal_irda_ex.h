@@ -320,3 +320,4 @@ extern "C" {
 #endif /* STM32F7xx_HAL_IRDA_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -348,3 +348,4 @@ arm_status ref_conv_partial_q7(
 	
 	return ARM_MATH_SUCCESS;
 }
+

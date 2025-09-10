@@ -50,3 +50,4 @@ void _ttywrch(int c) {
 void _sys_exit(int return_code) {
 label:  goto label;  /* endless loop */
 }
+

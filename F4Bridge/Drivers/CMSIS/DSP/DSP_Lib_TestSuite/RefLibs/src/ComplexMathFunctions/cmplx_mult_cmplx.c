@@ -54,3 +54,4 @@ void ref_cmplx_mult_cmplx_q15(
 		pDst[i+1] = mul3 + mul4;
 	}
 }
+

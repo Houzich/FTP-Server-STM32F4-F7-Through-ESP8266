@@ -220,3 +220,4 @@
     }
 
 #endif /* _COMPLEX_MATH_TEMPLATES_H_ */
+

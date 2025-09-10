@@ -11,3 +11,4 @@ JTEST_DEFINE_GROUP(controller_tests)
     JTEST_GROUP_CALL(sin_cos_tests);
     return;
 }
+

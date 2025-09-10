@@ -474,3 +474,4 @@ __weak void BSP_EEPROM_TIMEOUT_UserCallback(void)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

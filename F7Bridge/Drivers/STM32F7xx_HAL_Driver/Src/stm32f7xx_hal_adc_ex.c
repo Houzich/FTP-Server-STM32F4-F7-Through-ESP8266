@@ -1037,3 +1037,4 @@ static void ADC_MultiModeDMAError(DMA_HandleTypeDef *hdma)
   */ 
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -205,3 +205,4 @@ __weak void HAL_PCDEx_BCD_Callback(PCD_HandleTypeDef *hpcd, PCD_BCD_MsgTypeDef m
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

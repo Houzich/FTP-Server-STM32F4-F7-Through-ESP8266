@@ -41,3 +41,4 @@ void arm_fully_connected_q7_ref(const q7_t * pV,    // pointer to vector
         pOut[i] = (q7_t) __SSAT((ip_out >> out_shift), 8);
     }
 }
+

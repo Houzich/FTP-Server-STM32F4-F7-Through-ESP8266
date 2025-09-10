@@ -7684,3 +7684,4 @@ arm_status arm_dct4_init_q31(
 /**
  * @} end of DCT4_IDCT4 group
  */
+

@@ -92,3 +92,4 @@ JTEST_DEFINE_GROUP(rfft_tests)
     JTEST_TEST_CALL(arm_rfft_q31_inverse_test);
     JTEST_TEST_CALL(arm_rfft_q15_inverse_test);
 }
+

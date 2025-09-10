@@ -1024,3 +1024,4 @@ uint32_t osSemaphoreGetCount(osSemaphoreId semaphore_id);
 #endif
 
 #endif  // _CMSIS_OS_H
+

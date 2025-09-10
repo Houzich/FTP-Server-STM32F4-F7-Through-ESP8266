@@ -313,3 +313,4 @@ void  USBH_Delay(uint32_t Delay)
   UNUSED(Delay);
 }
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

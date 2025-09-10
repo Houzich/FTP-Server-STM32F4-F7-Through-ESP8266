@@ -55,3 +55,4 @@ arm_status ref_mat_inverse_f64(
 	
 	return ARM_MATH_SUCCESS;
 }
+

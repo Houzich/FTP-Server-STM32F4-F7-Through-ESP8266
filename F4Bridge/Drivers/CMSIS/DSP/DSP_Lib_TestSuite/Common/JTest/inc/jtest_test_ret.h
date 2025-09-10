@@ -15,3 +15,4 @@ typedef enum JTEST_TEST_RET_enum
 } JTEST_TEST_RET_t;
 
 #endif /* _JTEST_TEST_RET_H_ */
+

@@ -2869,3 +2869,4 @@ static void IRDA_Receive_IT(IRDA_HandleTypeDef *hirda)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

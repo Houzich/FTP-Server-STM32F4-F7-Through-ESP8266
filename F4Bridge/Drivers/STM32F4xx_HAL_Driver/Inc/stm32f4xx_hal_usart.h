@@ -643,3 +643,4 @@ uint32_t               HAL_USART_GetError(USART_HandleTypeDef *husart);
 #endif /* __STM32F4xx_HAL_USART_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

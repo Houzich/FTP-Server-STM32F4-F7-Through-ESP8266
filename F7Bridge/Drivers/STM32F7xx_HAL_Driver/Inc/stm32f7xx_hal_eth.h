@@ -2215,3 +2215,4 @@ HAL_ETH_StateTypeDef HAL_ETH_GetState(ETH_HandleTypeDef *heth);
 
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

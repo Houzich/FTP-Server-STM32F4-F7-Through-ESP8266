@@ -98,3 +98,4 @@ typedef struct JTEST_TEST_struct
     (JTEST_TEST_FLAG(jtest_test_ptr, enabled) == JTEST_TEST_FLAG_SET)
 
 #endif /* _JTEST_TEST_H_ */
+

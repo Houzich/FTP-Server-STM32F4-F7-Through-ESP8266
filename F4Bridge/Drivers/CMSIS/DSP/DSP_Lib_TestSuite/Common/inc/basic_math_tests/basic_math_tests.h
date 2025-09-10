@@ -15,3 +15,4 @@ JTEST_DECLARE_GROUP(shift_tests);
 JTEST_DECLARE_GROUP(sub_tests);
 
 #endif /* _BASIC_MATH_TESTS_H_ */
+

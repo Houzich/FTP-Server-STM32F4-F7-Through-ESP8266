@@ -471,3 +471,4 @@ JTEST_DEFINE_GROUP(conv_tests)
     JTEST_TEST_CALL(arm_conv_partial_opt_q15_tests);
     JTEST_TEST_CALL(arm_conv_partial_opt_q7_tests);
 }
+

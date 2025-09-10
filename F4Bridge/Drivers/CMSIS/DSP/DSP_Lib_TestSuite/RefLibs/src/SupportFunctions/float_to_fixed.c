@@ -50,3 +50,4 @@ void ref_float_to_q7(
 		pDst[i] = ref_sat_q7((q15_t)in);
 	}
 }
+

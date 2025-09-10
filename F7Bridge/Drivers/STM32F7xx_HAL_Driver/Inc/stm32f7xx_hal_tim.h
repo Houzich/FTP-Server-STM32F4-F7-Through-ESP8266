@@ -2270,3 +2270,4 @@ void TIM_ResetCallback(TIM_HandleTypeDef *htim);
 #endif /* STM32F7xx_HAL_TIM_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

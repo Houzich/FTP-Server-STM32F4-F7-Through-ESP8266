@@ -183,3 +183,4 @@ void HAL_I2SEx_TxRxCpltCallback(I2S_HandleTypeDef *hi2s);
 #endif /* STM32F4xx_HAL_I2S_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

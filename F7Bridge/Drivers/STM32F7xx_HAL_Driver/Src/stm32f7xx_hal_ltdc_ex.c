@@ -147,3 +147,4 @@ HAL_StatusTypeDef HAL_LTDCEx_StructInitFromAdaptedCommandConfig(LTDC_HandleTypeD
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

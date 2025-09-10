@@ -13,3 +13,4 @@ JTEST_DECLARE_GROUP(iir_tests);
 JTEST_DECLARE_GROUP(lms_tests);
 
 #endif /* _FILTERING_TESTS_H_ */
+

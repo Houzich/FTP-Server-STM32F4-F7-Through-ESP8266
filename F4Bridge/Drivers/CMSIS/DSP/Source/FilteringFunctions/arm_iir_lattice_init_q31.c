@@ -77,3 +77,4 @@ void arm_iir_lattice_init_q31(
 /**
  * @} end of IIR_Lattice group
  */
+
