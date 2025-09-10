@@ -7,3 +7,4 @@
 JTEST_DECLARE_GROUP(controller_tests);
 
 #endif /* _CONTROLLER_TEST_GROUP_H_ */
+

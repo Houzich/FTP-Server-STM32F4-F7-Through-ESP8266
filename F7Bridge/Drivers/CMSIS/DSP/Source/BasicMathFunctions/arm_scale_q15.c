@@ -148,3 +148,4 @@ void arm_scale_q15(
 /**
  * @} end of scale group
  */
+

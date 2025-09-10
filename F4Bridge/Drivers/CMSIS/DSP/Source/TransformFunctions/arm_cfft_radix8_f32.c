@@ -283,3 +283,4 @@ uint16_t twidCoefModifier)
       twidCoefModifier <<= 3;
    } while (n2 > 7);
 }
+

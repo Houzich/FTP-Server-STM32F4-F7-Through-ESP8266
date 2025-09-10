@@ -191,3 +191,4 @@ arm_fully_connected_q15(const q15_t * pV,
 /**
  * @} end of FC group
  */
+

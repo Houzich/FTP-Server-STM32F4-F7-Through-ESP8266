@@ -358,3 +358,4 @@ uint32_t             HAL_RNG_GetError(RNG_HandleTypeDef *hrng);
 #endif /* STM32F4xx_HAL_RNG_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -162,3 +162,4 @@ void    BSP_SD_ReadCpltCallback(void);
 #endif /* __STM32F769I_DISCOVERY_SD_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

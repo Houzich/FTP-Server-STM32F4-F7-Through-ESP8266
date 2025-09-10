@@ -263,3 +263,4 @@ arm_convolve_HWC_q15_fast_nonsquare(const q15_t * Im_in,
 /**
  * @} end of NNConv group
  */
+

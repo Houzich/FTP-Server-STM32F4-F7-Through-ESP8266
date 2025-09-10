@@ -1064,3 +1064,4 @@ void FLASH_FlushCaches(void);
 #endif /* __STM32F4xx_HAL_FLASH_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

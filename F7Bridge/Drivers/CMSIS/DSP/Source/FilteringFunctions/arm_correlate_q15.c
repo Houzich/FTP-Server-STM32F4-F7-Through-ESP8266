@@ -705,3 +705,4 @@ void arm_correlate_q15(
 /**
  * @} end of Corr group
  */
+

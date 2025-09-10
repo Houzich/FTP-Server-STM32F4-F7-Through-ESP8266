@@ -44,3 +44,4 @@ void ref_cmplx_mag_squared_q15(
 		*pDst++ = (q15_t) (((q63_t) acc0 + acc1) >> 17);
 	}
 }
+

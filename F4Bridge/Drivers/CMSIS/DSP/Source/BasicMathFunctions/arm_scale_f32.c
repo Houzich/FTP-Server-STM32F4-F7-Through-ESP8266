@@ -155,3 +155,4 @@ void arm_scale_f32(
 /**
  * @} end of scale group
  */
+

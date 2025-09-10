@@ -51,3 +51,4 @@ void ref_copy_q7(
 		pDst[i] = pSrc[i];
 	}
 }
+

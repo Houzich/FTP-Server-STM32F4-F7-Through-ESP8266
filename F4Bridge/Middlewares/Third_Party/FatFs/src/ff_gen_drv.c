@@ -120,3 +120,4 @@ uint8_t FATFS_GetAttachedDriversNbr(void)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

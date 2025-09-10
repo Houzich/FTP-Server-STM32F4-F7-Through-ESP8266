@@ -49,3 +49,4 @@ SourceFiles=..\Core\Src\main.c;..\Core\Src\gpio.c;..\Core\Src\freertos.c;..\FATF
 HeaderPath=..\Drivers\STM32F4xx_HAL_Driver\Inc;..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy;..\Middlewares\Third_Party\FreeRTOS\Source\include;..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS;..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F;..\Middlewares\Third_Party\FatFs\src;..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc;..\Middlewares\ST\STM32_USB_Host_Library\Class\MSC\Inc;..\Drivers\CMSIS\Device\ST\STM32F4xx\Include;..\Drivers\CMSIS\Include;..\Core\Inc;..\FATFS\Target;..\FATFS\App;..\USB_HOST\App;..\USB_HOST\Target;
 CDefines=USE_HAL_DRIVER;STM32F401xC;USE_HAL_DRIVER;USE_HAL_DRIVER;
 
+

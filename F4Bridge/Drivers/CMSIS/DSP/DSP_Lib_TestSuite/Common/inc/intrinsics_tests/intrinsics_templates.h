@@ -164,3 +164,4 @@
    }
 
 #endif /* _INTRINSICS_TEMPLATES_H_ */
+

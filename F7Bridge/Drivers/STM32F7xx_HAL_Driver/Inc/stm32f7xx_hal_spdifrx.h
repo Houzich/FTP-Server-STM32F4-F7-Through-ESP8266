@@ -598,3 +598,4 @@ uint32_t HAL_SPDIFRX_GetError(SPDIFRX_HandleTypeDef const * const hspdif);
 #endif /* __STM32F7xx_HAL_SPDIFRX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

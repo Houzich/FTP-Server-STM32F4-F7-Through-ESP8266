@@ -2800,3 +2800,4 @@ static void QSPI_Config(QSPI_HandleTypeDef *hqspi, QSPI_CommandTypeDef *cmd, uin
 #endif /* defined(QUADSPI) || defined(QUADSPI1) || defined(QUADSPI2) */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

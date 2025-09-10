@@ -57,3 +57,4 @@ JTEST_DEFINE_GROUP(mat_cmplx_mult_tests)
     JTEST_TEST_CALL(arm_mat_cmplx_mult_q31_test);
     JTEST_TEST_CALL(arm_mat_cmplx_mult_q15_test);
 }
+

@@ -529,3 +529,4 @@ void arm_conv_fast_opt_q15(
 /**
  * @} end of Conv group
  */
+

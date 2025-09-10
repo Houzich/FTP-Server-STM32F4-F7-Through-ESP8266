@@ -382,3 +382,4 @@ arm_status arm_mat_mult_fast_q31(
 /**
  * @} end of MatrixMult group
  */
+

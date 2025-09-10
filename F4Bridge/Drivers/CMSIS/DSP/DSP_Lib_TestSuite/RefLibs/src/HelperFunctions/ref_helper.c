@@ -101,3 +101,4 @@ float32_t ref_pow(float32_t a, uint32_t b)
 	
 	return r;
 }
+

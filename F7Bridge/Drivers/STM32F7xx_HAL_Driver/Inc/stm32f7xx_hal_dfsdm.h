@@ -793,3 +793,4 @@ uint32_t                      HAL_DFSDM_FilterGetError(DFSDM_Filter_HandleTypeDe
 #endif /* __STM32F7xx_HAL_DFSDM_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

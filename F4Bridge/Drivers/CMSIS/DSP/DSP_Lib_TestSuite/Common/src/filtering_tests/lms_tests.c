@@ -217,3 +217,4 @@ JTEST_DEFINE_GROUP(lms_tests)
    JTEST_TEST_CALL(arm_lms_norm_q31_test);
    JTEST_TEST_CALL(arm_lms_norm_q15_test);
 }
+

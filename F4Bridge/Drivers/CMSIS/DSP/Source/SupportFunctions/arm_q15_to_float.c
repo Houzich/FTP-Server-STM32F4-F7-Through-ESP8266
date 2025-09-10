@@ -120,3 +120,4 @@ void arm_q15_to_float(
 /**
  * @} end of q15_to_x group
  */
+

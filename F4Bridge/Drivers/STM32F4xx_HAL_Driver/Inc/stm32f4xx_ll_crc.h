@@ -202,3 +202,4 @@ ErrorStatus LL_CRC_DeInit(CRC_TypeDef *CRCx);
 #endif /* STM32F4xx_LL_CRC_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

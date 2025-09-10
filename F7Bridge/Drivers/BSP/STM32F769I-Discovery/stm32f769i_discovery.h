@@ -350,3 +350,4 @@ uint32_t         BSP_PB_GetState(Button_TypeDef Button);
 #endif /* __STM32F769I_DISCOVERY_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

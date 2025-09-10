@@ -239,3 +239,4 @@ void ref_fir_lattice_q15(
 
   }
 }
+

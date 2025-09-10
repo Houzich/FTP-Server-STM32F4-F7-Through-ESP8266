@@ -4648,3 +4648,4 @@ ErrorStatus LL_TIM_BDTR_Init(TIM_TypeDef *TIMx, LL_TIM_BDTR_InitTypeDef *TIM_BDT
 
 #endif /* __STM32F7xx_LL_TIM_H */
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

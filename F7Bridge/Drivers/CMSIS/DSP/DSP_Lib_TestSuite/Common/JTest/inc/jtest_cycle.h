@@ -63,3 +63,4 @@ extern const char * JTEST_CYCLE_STRF;
     } while (0)
 
 #endif /* _JTEST_CYCLE_H_ */
+

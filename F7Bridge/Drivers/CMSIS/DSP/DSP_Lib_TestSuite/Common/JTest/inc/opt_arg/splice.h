@@ -6,3 +6,4 @@
 #define SPLICE_2(a,b) a##b
 
 #endif /* _SPLICE_H_ */
+

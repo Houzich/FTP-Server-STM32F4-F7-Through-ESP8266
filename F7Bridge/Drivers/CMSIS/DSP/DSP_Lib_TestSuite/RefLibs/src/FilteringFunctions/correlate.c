@@ -511,3 +511,4 @@ void ref_correlate_q7(
       *pDst++ = (q7_t) __SSAT((sum >> 7U), 8U);
   }
 }
+

@@ -2100,3 +2100,4 @@ static HAL_StatusTypeDef PCD_EP_OutSetupPacket_int(PCD_HandleTypeDef *hpcd, uint
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

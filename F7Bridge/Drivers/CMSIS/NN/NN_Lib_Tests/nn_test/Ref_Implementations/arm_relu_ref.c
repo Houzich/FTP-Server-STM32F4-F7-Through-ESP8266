@@ -40,3 +40,4 @@ void arm_relu_q15_ref(q15_t * data, uint16_t size)
             data[i] = 0;
     }
 }
+

@@ -161,3 +161,4 @@ fvp_mps2.dma3.generate_clear=0                        # (bool  , init-time) defa
 fvp_mps2.dma3.activate_delay=0x0                      # (int   , init-time) default = '0x0'    : request delay
 fvp_mps2.iotss_cpuidentity.debugger_master_id=0xFFFFFFFF  # (int   , init-time) default = '0xFFFFFFFF' :  : [0x0..0xFFFFFFFF]
 #----------------------------------------------------------------------------------------------
+

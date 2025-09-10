@@ -35,3 +35,4 @@
 #endif /* __STM32F7xx_HAL_DCMI_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

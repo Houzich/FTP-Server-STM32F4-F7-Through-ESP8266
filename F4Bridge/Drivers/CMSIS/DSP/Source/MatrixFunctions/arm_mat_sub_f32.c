@@ -195,3 +195,4 @@ arm_status arm_mat_sub_f32(
 /**
  * @} end of MatrixSub group
  */
+

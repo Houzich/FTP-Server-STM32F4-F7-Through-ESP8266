@@ -312,3 +312,4 @@ void arm_cmplx_mult_cmplx_q31(
 /**
  * @} end of CmplxByCmplxMult group
  */
+

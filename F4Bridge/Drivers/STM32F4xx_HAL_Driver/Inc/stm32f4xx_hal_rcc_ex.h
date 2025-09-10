@@ -7136,3 +7136,4 @@ HAL_StatusTypeDef HAL_RCCEx_DisablePLLSAI(void);
 #endif /* __STM32F4xx_HAL_RCC_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

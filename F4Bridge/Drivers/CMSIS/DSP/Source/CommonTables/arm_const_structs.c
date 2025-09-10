@@ -377,3 +377,4 @@ const arm_rfft_instance_q15 arm_rfft_sR_q15_len8192 = {
 	(q15_t*)realCoefBQ15,
 	&arm_cfft_sR_q15_len4096
 };
+

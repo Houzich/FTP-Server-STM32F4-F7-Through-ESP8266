@@ -51,3 +51,4 @@ void ref_abs_q7(
 		pDst[i] = pSrc[i] < 0 ? -pSrc[i] : pSrc[i];
 	}
 }
+

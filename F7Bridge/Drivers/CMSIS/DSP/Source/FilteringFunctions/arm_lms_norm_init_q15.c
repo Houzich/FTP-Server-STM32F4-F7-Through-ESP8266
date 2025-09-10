@@ -98,3 +98,4 @@ void arm_lms_norm_init_q15(
 /**
  * @} end of LMS_NORM group
  */
+

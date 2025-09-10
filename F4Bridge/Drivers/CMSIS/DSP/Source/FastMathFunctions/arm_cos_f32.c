@@ -113,3 +113,4 @@ float32_t arm_cos_f32(
 /**
  * @} end of cos group
  */
+

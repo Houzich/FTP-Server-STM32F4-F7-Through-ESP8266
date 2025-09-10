@@ -179,3 +179,4 @@ void arm_var_f32(
 /**
  * @} end of variance group
  */
+

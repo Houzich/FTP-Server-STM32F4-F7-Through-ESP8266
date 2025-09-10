@@ -113,3 +113,4 @@ void arm_mult_q7(
 /**
  * @} end of BasicMult group
  */
+

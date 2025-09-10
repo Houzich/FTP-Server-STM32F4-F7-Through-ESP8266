@@ -285,3 +285,4 @@ HAL_PCCARD_StatusTypeDef HAL_PCCARD_ReadStatus(PCCARD_HandleTypeDef *hpccard);
 #endif /* __STM32F4xx_HAL_PCCARD_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

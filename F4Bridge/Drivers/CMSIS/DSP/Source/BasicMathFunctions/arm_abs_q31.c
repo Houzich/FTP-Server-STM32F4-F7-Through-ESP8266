@@ -116,3 +116,4 @@ void arm_abs_q31(
 /**
  * @} end of BasicAbs group
  */
+

@@ -1873,3 +1873,4 @@ HAL_StatusTypeDef HAL_RTCEx_PollForAlarmBEvent(RTC_HandleTypeDef *hrtc, uint32_t
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

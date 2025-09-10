@@ -853,3 +853,4 @@ size_t xStreamBufferNextMessageLengthBytes( StreamBufferHandle_t xStreamBuffer )
 #endif
 
 #endif	/* !defined( STREAM_BUFFER_H ) */
+

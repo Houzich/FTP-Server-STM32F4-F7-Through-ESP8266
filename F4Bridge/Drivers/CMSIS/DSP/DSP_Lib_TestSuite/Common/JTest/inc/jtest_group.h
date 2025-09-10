@@ -64,3 +64,4 @@ typedef struct JTEST_GROUP_struct
     } while (0)
 
 #endif /* _JTEST_GROUP_H_ */
+

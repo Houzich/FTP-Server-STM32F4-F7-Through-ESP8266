@@ -102,3 +102,4 @@ ErrorStatus LL_RNG_DeInit(RNG_TypeDef *RNGx)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

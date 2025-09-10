@@ -682,3 +682,4 @@ uint32_t HAL_IRDA_GetError(IRDA_HandleTypeDef *hirda);
 #endif /* __STM32F4xx_HAL_IRDA_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

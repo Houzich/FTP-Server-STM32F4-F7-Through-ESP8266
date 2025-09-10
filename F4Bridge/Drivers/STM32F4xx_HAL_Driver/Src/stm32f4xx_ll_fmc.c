@@ -1690,3 +1690,4 @@ uint32_t FMC_SDRAM_GetModeStatus(FMC_SDRAM_TypeDef *Device, uint32_t Bank)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

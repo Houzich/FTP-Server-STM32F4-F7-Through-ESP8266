@@ -280,3 +280,4 @@ arm_status arm_mat_cmplx_mult_q31(
 /**
  * @} end of MatrixMult group
  */
+

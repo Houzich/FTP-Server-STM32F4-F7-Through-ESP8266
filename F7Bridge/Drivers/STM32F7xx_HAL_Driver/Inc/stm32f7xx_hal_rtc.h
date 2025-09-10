@@ -855,3 +855,4 @@ uint8_t            RTC_Bcd2ToByte(uint8_t Value);
 #endif /* __STM32F7xx_HAL_RTC_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -446,3 +446,4 @@ arm_avepool_q7_HWC(q7_t * Im_in,
 /**
  * @} end of Pooling group
  */
+

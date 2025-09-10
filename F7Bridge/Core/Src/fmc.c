@@ -343,3 +343,4 @@ void HAL_SDRAM_MspDeInit(SDRAM_HandleTypeDef* sdramHandle){
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

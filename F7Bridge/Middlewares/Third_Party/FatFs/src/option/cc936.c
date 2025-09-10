@@ -11043,3 +11043,4 @@ WCHAR ff_wtoupper (	/* Returns upper converted character */
 	return chr;
 }
 
+

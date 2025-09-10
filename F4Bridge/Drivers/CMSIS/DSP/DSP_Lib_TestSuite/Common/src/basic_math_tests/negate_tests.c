@@ -30,3 +30,4 @@ JTEST_DEFINE_GROUP(negate_tests)
     JTEST_TEST_CALL(arm_negate_q15_test);
     JTEST_TEST_CALL(arm_negate_q7_test);
 }
+
