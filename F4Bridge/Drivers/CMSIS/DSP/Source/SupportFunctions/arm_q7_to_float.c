@@ -117,3 +117,4 @@ void arm_q7_to_float(
 /**
  * @} end of q7_to_x group
  */
+

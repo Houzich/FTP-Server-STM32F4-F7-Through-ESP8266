@@ -69,3 +69,4 @@ uint32_t OS_Tick_GetCount (void);
 uint32_t OS_Tick_GetOverflow (void);
 
 #endif  /* OS_TICK_H */
+

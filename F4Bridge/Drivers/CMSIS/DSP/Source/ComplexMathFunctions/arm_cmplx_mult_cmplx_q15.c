@@ -179,3 +179,4 @@ void arm_cmplx_mult_cmplx_q15(
 /**
  * @} end of CmplxByCmplxMult group
  */
+

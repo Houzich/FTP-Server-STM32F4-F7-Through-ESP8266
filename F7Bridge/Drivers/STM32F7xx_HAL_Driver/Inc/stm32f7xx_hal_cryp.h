@@ -659,3 +659,4 @@ uint32_t HAL_CRYP_GetError(CRYP_HandleTypeDef *hcryp);
 #endif /* __STM32F7xx_HAL_CRYP_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

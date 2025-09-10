@@ -339,3 +339,4 @@ void arm_fir_lattice_q31(
 /**
  * @} end of FIR_Lattice group
  */
+

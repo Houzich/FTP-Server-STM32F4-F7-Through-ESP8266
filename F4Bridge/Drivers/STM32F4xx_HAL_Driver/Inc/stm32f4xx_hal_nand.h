@@ -379,3 +379,4 @@ HAL_NAND_StateTypeDef HAL_NAND_GetState(NAND_HandleTypeDef *hnand);
 #endif /* __STM32F4xx_HAL_NAND_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

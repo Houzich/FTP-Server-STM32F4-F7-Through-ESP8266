@@ -121,3 +121,4 @@ float32_t arm_sin_f32(
 /**
  * @} end of sin group
  */
+

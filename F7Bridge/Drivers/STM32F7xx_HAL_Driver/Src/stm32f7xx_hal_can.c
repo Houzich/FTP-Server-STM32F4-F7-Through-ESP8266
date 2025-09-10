@@ -2462,3 +2462,4 @@ HAL_StatusTypeDef HAL_CAN_ResetError(CAN_HandleTypeDef *hcan)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

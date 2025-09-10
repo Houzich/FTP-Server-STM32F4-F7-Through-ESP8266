@@ -450,3 +450,4 @@ void arm_correlate_opt_q7(
 /**
  * @} end of Corr group
  */
+

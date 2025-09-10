@@ -455,3 +455,4 @@ arm_status arm_mat_mult_q15(
 /**
  * @} end of MatrixMult group
  */
+

@@ -323,3 +323,4 @@ void ref_fir_q7(
       pStateCurnt[i] = pState[i];
 	 }
 }
+

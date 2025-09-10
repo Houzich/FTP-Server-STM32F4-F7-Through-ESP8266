@@ -140,3 +140,4 @@ void arm_q15_to_q7(
 /**
  * @} end of q15_to_x group
  */
+

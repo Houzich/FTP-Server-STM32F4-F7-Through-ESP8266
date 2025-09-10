@@ -51,3 +51,4 @@ void ref_q7_to_float(
 		pDst[i] = ((float32_t)pSrc[i]) / 128.0f;
 	}
 }
+

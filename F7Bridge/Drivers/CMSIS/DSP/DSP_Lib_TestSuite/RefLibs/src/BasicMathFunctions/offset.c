@@ -55,3 +55,4 @@ void ref_offset_q7(
 		pDst[i] = ref_sat_q7( (q15_t)pSrc[i] + offset );
 	}
 }
+

@@ -143,3 +143,4 @@ void arm_abs_q7(
 /**
  * @} end of BasicAbs group
  */
+

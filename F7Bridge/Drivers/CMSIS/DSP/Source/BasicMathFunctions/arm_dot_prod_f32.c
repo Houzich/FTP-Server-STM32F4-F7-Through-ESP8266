@@ -121,3 +121,4 @@ void arm_dot_prod_f32(
 /**
  * @} end of dot_prod group
  */
+

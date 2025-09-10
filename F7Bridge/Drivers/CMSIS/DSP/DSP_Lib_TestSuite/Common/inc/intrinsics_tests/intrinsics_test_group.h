@@ -7,3 +7,4 @@
 JTEST_DECLARE_GROUP(intrinsics_tests);
 
 #endif /* _INTRINSICS_TEST_GROUP_H_ */
+

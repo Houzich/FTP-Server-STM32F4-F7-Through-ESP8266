@@ -296,3 +296,4 @@ void LL_LPTIM_Disable(LPTIM_TypeDef *LPTIMx)
 #endif /* USE_FULL_LL_DRIVER */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

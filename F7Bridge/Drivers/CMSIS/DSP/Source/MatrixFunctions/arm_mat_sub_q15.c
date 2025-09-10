@@ -146,3 +146,4 @@ arm_status arm_mat_sub_q15(
 /**
  * @} end of MatrixSub group
  */
+

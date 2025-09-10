@@ -142,3 +142,4 @@ arm_status arm_sqrt_q15(
 /**
  * @} end of SQRT group
  */
+

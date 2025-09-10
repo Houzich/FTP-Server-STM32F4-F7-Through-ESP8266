@@ -55,3 +55,4 @@ void ref_add_q7(
 		pDst[i] = ref_sat_q7( (q15_t)pSrcA[i] + pSrcB[i] );
 	}
 }
+

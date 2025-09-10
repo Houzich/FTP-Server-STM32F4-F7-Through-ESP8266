@@ -331,3 +331,4 @@ void arm_fir_fast_q15(
 /**
  * @} end of FIR group
  */
+

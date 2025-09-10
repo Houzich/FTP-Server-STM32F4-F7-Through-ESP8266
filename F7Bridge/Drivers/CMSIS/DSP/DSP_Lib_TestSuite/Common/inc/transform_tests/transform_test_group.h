@@ -7,3 +7,4 @@
 JTEST_DECLARE_GROUP(transform_tests);
 
 #endif /* _TRANSFORM_TEST_GROUP_H_ */
+

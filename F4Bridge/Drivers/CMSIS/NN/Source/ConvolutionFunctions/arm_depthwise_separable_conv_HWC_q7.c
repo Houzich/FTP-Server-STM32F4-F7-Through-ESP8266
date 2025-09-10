@@ -416,3 +416,4 @@ arm_status arm_depthwise_separable_conv_HWC_q7(const q7_t * Im_in,
 /**
  * @} end of NNConv group
  */
+

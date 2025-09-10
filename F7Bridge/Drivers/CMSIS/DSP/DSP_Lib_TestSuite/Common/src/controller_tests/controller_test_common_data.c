@@ -497,3 +497,4 @@ const q15_t controller_q15_coeffs[CONTROLLER_MAX_COEFFS_LEN] =
 	0x0972,	0x0554,	0x270C,
 	0x06FE,	0xF702,	0xB115
 };
+

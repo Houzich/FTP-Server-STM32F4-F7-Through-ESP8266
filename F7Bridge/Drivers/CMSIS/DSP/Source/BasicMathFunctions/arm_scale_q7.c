@@ -135,3 +135,4 @@ void arm_scale_q7(
 /**
  * @} end of scale group
  */
+

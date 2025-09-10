@@ -101,3 +101,4 @@ void arm_copy_q7(
 /**
  * @} end of BasicCopy group
  */
+

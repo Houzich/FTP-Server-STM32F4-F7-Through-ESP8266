@@ -755,3 +755,4 @@ uint32_t HAL_SMARTCARD_GetError(SMARTCARD_HandleTypeDef *hsc);
 #endif /* __STM32F4xx_HAL_SMARTCARD_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

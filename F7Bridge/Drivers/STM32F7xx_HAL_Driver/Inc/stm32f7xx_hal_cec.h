@@ -792,3 +792,4 @@ uint32_t HAL_CEC_GetError(CEC_HandleTypeDef *hcec);
 #endif /* STM32F7xxHAL_CEC_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

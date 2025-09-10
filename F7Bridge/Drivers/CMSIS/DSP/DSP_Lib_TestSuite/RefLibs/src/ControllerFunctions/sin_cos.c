@@ -19,3 +19,4 @@ void ref_sin_cos_q31(
 	*pSinVal = (q31_t)(sinf((float32_t)theta * 3.14159265358979f / 2147483648.0f) * 2147483648.0f);
 	*pCosVal = (q31_t)(cosf((float32_t)theta * 3.14159265358979f / 2147483648.0f) * 2147483648.0f);
 }
+

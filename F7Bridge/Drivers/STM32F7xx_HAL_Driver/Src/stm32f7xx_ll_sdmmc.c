@@ -1519,3 +1519,4 @@ static uint32_t SDMMC_GetCmdResp7(SDMMC_TypeDef *SDMMCx)
 #endif /* SDMMC1 */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

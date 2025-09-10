@@ -80,3 +80,4 @@ void arm_fir_init_q7(
 /**
  * @} end of FIR group
  */
+

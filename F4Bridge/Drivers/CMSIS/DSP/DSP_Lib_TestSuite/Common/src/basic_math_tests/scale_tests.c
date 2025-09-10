@@ -50,3 +50,4 @@ JTEST_DEFINE_GROUP(scale_tests)
     JTEST_TEST_CALL(arm_scale_q15_test);
     JTEST_TEST_CALL(arm_scale_q7_test);
 }
+

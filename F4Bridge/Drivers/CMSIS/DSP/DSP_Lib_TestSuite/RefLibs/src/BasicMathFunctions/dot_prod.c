@@ -63,3 +63,4 @@ void ref_dot_prod_q7(
 	}
   *result = sum;
 }
+

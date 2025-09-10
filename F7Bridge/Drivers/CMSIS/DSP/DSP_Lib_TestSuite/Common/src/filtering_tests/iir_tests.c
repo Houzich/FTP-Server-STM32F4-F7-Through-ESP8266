@@ -74,3 +74,4 @@ JTEST_DEFINE_GROUP(iir_tests)
    JTEST_TEST_CALL(arm_iir_lattice_q31_test);
    JTEST_TEST_CALL(arm_iir_lattice_q15_test);
 }
+

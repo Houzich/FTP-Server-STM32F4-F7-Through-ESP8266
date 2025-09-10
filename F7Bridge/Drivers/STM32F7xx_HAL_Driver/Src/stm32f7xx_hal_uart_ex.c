@@ -483,3 +483,4 @@ static void UARTEx_Wakeup_AddressConfig(UART_HandleTypeDef *huart, UART_WakeUpTy
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

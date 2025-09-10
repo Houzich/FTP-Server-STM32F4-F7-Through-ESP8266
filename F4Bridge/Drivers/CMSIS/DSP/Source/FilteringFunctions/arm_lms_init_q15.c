@@ -91,3 +91,4 @@ void arm_lms_init_q15(
 /**
  * @} end of LMS group
  */
+

@@ -29,3 +29,4 @@ JTEST_DEFINE_GROUP(shift_tests)
     JTEST_TEST_CALL(arm_shift_q15_test);
     JTEST_TEST_CALL(arm_shift_q7_test);
 }
+

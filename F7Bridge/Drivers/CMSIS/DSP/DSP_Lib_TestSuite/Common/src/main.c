@@ -25,3 +25,4 @@ int main(void)
     JTEST_ACT_EXIT_FW();        /* Exit test framework.  */
     while (1);                   /* Never return. */
 }
+

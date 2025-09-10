@@ -1368,3 +1368,4 @@ USBH_StatusTypeDef  USBH_LL_NotifyURBChange(USBH_HandleTypeDef *phost)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

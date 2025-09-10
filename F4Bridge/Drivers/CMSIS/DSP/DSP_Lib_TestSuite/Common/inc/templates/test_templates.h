@@ -456,3 +456,4 @@
         } while (0)
 
 #endif /* _TEST_TEMPLATES_H_ */
+

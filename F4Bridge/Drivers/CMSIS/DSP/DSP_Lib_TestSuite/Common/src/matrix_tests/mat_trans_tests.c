@@ -31,3 +31,4 @@ JTEST_DEFINE_GROUP(mat_trans_tests)
     JTEST_TEST_CALL(arm_mat_trans_q31_test);
     JTEST_TEST_CALL(arm_mat_trans_q15_test);
 }
+

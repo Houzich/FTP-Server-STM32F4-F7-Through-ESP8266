@@ -196,3 +196,4 @@ arm_fully_connected_q7(const q7_t * pV,
 /**
  * @} end of FC group
  */
+

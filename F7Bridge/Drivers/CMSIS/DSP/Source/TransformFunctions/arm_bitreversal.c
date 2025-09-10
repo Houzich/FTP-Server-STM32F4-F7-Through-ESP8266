@@ -228,3 +228,4 @@ uint16_t * pBitRevTab)
       pBitRevTab += bitRevFactor;
    }
 }
+

@@ -24,3 +24,4 @@
           #define RTE_Compiler_IO_TTY_ITM         /* Compiler I/O: TTY ITM */
 
 #endif /* RTE_COMPONENTS_H */
+

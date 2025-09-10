@@ -50,3 +50,4 @@ void MX_USART2_UART_Init(void);
 #endif /* __USART_H__ */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -136,3 +136,4 @@ void arm_power_q15(
 /**
  * @} end of power group
  */
+

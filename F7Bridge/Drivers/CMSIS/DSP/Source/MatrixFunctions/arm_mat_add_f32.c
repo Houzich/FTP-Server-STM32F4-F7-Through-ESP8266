@@ -194,3 +194,4 @@ arm_status arm_mat_add_f32(
 /**
  * @} end of MatrixAdd group
  */
+

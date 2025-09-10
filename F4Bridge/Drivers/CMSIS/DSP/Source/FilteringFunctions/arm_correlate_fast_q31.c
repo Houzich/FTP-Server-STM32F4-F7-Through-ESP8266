@@ -598,3 +598,4 @@ void arm_correlate_fast_q31(
 /**
  * @} end of Corr group
  */
+

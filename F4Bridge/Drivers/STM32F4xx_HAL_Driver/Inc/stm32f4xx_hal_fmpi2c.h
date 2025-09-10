@@ -782,3 +782,4 @@ uint32_t             HAL_FMPI2C_GetError(FMPI2C_HandleTypeDef *hfmpi2c);
 #endif /* STM32F4xx_HAL_FMPI2C_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

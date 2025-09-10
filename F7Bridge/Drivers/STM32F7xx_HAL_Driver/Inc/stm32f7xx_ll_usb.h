@@ -510,3 +510,4 @@ HAL_StatusTypeDef USB_DeActivateRemoteWakeup(USB_OTG_GlobalTypeDef *USBx);
 #endif /* STM32F7xx_LL_USB_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

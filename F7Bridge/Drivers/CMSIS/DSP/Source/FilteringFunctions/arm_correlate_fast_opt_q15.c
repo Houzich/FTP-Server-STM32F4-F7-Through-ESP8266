@@ -498,3 +498,4 @@ void arm_correlate_fast_opt_q15(
 /**
  * @} end of Corr group
  */
+

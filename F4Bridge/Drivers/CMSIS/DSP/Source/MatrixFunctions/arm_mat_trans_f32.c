@@ -204,3 +204,4 @@ arm_status arm_mat_trans_f32(
 /**
  * @} end of MatrixTrans group
  */
+

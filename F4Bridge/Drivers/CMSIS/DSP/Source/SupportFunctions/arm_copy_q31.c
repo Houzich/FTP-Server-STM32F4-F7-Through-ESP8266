@@ -109,3 +109,4 @@ void arm_copy_q31(
 /**
  * @} end of BasicCopy group
  */
+

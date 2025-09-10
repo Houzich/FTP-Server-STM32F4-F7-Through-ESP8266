@@ -47,3 +47,4 @@ void ref_cmplx_mag_q15(
 		*pDst++ = (q15_t)(sqrtf((float)out / 32768.0f) * 32768.0f);
 	}
 }
+

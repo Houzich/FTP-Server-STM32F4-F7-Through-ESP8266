@@ -193,3 +193,4 @@ arm_status arm_mat_add_q31(
 /**
  * @} end of MatrixAdd group
  */
+

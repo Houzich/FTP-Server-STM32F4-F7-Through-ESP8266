@@ -137,3 +137,4 @@ void arm_rms_q15(
 /**
  * @} end of RMS group
  */
+

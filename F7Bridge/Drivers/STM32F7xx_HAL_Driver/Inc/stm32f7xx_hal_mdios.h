@@ -567,3 +567,4 @@ HAL_MDIOS_StateTypeDef HAL_MDIOS_GetState(MDIOS_HandleTypeDef *hmdios);
 #endif /* __STM32F7xx_HAL_MDIOS_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

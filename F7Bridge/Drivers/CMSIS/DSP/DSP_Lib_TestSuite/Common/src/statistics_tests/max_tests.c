@@ -34,3 +34,4 @@ JTEST_DEFINE_GROUP(max_tests)
     JTEST_TEST_CALL(arm_max_q15_test);
     JTEST_TEST_CALL(arm_max_q7_test);
 }
+

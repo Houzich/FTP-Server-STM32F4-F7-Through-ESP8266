@@ -52,3 +52,4 @@ void MX_DriverVbusFS(uint8_t state)
 }
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
