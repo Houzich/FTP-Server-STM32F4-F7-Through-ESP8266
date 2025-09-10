@@ -70,3 +70,4 @@ void ref_cmplx_dot_prod_q15(
 	*realResult = (q31_t)(sumr >> 6);
 	*imagResult = (q31_t)(sumi >> 6);
 }
+

@@ -83,3 +83,4 @@ void ref_min_q7(
 	*pResult = min;
 	*pIndex = ind;
 }
+

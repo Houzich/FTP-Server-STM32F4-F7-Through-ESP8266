@@ -2189,3 +2189,4 @@ void LL_FMPI2C_StructInit(LL_FMPI2C_InitTypeDef *FMPI2C_InitStruct);
 #endif /* STM32F4xx_LL_FMPI2C_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -136,3 +136,4 @@ void arm_fully_connected_q7_opt_ref(const q7_t * pV,    // pointer to vector
         rowCnt--;
     }
 }
+

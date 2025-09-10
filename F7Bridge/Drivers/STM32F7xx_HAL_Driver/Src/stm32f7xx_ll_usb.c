@@ -2117,3 +2117,4 @@ HAL_StatusTypeDef USB_DeActivateRemoteWakeup(USB_OTG_GlobalTypeDef *USBx)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

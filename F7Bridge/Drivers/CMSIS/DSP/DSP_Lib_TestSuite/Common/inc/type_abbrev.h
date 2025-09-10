@@ -35,3 +35,4 @@
 #define TYPE_SUFFIX_q7_t q7
 
 #endif /* _TYPE_ABBREV_H_ */
+

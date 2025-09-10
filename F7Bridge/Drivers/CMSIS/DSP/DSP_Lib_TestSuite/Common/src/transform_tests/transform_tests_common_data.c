@@ -3309,3 +3309,4 @@ ARR_DESC_DEFINE(const arm_cfft_instance_q15 *,
                     /* &arm_cfft_sR_q15_len2048, */
                     /* &arm_cfft_sR_q15_len4096 */
                     ));
+

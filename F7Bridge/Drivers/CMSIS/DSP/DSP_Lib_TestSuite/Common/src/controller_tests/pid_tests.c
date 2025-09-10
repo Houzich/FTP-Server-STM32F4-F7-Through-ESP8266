@@ -77,3 +77,4 @@ JTEST_DEFINE_GROUP(pid_tests)
     JTEST_TEST_CALL(arm_pid_q31_test);
     JTEST_TEST_CALL(arm_pid_q15_test);
 }
+

@@ -1387,3 +1387,4 @@ void arm_radix4_butterfly_inverse_q31(
 
   /* End of last stage process */
 }
+

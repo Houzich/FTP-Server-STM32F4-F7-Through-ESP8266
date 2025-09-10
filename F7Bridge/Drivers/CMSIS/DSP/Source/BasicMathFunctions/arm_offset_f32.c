@@ -152,3 +152,4 @@ void arm_offset_f32(
 /**
  * @} end of offset group
  */
+

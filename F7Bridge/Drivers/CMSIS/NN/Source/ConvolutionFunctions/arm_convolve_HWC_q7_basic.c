@@ -228,3 +228,4 @@ arm_convolve_HWC_q7_basic(const q7_t * Im_in,
 /**
  * @} end of NNConv group
  */
+

@@ -12,3 +12,4 @@ JTEST_DEFINE_GROUP(statistics_tests)
     JTEST_GROUP_CALL(var_tests);
     return;
 }
+

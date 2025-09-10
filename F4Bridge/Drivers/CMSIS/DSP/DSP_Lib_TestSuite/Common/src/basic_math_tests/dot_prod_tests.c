@@ -31,3 +31,4 @@ JTEST_DEFINE_GROUP(dot_prod_tests)
     JTEST_TEST_CALL(arm_dot_prod_q15_test);
     JTEST_TEST_CALL(arm_dot_prod_q7_test);
 }
+

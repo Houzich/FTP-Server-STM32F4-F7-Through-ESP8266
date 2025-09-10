@@ -1305,3 +1305,4 @@ void arm_correlate_fast_q15(
 /**
  * @} end of Corr group
  */
+

@@ -2703,3 +2703,4 @@ uint32_t HAL_DSI_GetError(DSI_HandleTypeDef *hdsi)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

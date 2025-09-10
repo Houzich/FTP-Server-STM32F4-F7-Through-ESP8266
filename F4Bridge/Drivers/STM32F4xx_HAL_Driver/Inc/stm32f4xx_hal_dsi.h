@@ -1351,3 +1351,4 @@ HAL_DSI_StateTypeDef HAL_DSI_GetState(DSI_HandleTypeDef *hdsi);
 #endif /* STM32F4xx_HAL_DSI_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

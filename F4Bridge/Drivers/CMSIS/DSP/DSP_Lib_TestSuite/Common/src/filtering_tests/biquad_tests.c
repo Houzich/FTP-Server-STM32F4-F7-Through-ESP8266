@@ -242,3 +242,4 @@ JTEST_DEFINE_GROUP(biquad_tests)
    JTEST_TEST_CALL(arm_biquad_cascade_df1_fast_q15_test);
    JTEST_TEST_CALL(arm_biquad_cas_df1_32x64_q31_test);
 }
+

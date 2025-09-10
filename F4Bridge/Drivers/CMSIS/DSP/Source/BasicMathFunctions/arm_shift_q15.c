@@ -234,3 +234,4 @@ void arm_shift_q15(
 /**
  * @} end of shift group
  */
+

@@ -139,3 +139,4 @@ void arm_cmplx_mag_q15(
 /**
  * @} end of cmplx_mag group
  */
+

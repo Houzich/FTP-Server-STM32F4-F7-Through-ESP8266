@@ -72,3 +72,4 @@ void ref_std_q15(
 	sum = (q31_t)((q63_t)sum * sum / (q63_t)(blockSize * (blockSize - 1)));
 	*pResult = (q15_t)(sqrtf((float)ref_sat_q15( (sumsq - sum) >> 15) / 32768.0f ) * 32768.0f);
 }
+

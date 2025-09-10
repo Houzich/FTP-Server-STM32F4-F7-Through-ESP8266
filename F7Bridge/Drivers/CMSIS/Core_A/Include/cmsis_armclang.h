@@ -501,3 +501,4 @@ __STATIC_INLINE void __FPU_Enable(void)
 }
 
 #endif /* __CMSIS_ARMCLANG_H */
+

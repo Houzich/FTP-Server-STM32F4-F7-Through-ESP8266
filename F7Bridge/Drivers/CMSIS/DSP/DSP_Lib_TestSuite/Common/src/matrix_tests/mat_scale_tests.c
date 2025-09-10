@@ -88,3 +88,4 @@ JTEST_DEFINE_GROUP(mat_scale_tests)
     JTEST_TEST_CALL(arm_mat_scale_q31_test);
     JTEST_TEST_CALL(arm_mat_scale_q15_test);
 }
+

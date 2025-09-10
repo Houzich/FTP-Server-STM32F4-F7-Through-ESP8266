@@ -337,3 +337,4 @@ void arm_fir_decimate_fast_q31(
 /**
  * @} end of FIR_decimate group
  */
+

@@ -875,3 +875,4 @@ uint32_t               HAL_USART_GetError(USART_HandleTypeDef *husart);
 #endif /* STM32F7xx_HAL_USART_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

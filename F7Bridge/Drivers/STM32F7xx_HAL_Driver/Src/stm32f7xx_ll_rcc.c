@@ -1581,3 +1581,4 @@ uint32_t RCC_PLLI2S_GetFreqDomain_I2S(void)
 #endif /* USE_FULL_LL_DRIVER */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

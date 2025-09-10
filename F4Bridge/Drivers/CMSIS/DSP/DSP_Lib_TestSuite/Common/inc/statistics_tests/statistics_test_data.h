@@ -42,3 +42,4 @@ ARR_DESC_DECLARE(statistics_f_32);
 ARR_DESC_DECLARE(statistics_f_all);
 
 #endif /* _STATISTICS_TEST_DATA_H_ */
+

@@ -122,3 +122,4 @@ void arm_offset_q15(
 /**
  * @} end of offset group
  */
+

@@ -83,3 +83,4 @@
     JTEST_PF_RESET_XXX(failed, struct_pf_ptr)
 
 #endif /* _JTEST_PF_H_ */
+

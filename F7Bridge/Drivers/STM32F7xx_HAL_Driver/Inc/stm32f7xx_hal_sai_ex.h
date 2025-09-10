@@ -36,3 +36,4 @@
 #endif /* __STM32F7xx_HAL_SAI_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

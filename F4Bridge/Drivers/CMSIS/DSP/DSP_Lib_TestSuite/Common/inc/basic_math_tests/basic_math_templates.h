@@ -265,3 +265,4 @@
     }
 
 #endif /* _BASIC_MATH_TEMPLATES_H_ */
+

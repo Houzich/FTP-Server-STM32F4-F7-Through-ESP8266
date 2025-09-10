@@ -83,3 +83,4 @@ void ref_max_q7(
 	*pResult = max;
 	*pIndex = ind;
 }
+

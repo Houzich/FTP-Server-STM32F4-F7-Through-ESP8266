@@ -2187,3 +2187,4 @@ void LL_I2C_StructInit(LL_I2C_InitTypeDef *I2C_InitStruct);
 #endif /* STM32F7xx_LL_I2C_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

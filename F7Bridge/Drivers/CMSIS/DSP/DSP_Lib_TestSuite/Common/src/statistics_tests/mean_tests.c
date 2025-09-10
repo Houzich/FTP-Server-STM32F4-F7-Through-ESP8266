@@ -34,3 +34,4 @@ JTEST_DEFINE_GROUP(mean_tests)
     JTEST_TEST_CALL(arm_mean_q15_test);
     JTEST_TEST_CALL(arm_mean_q7_test);
 }
+

@@ -1519,3 +1519,4 @@ static uint32_t SDMMC_GetCmdResp7(SDIO_TypeDef *SDIOx)
 #endif /* SDIO */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

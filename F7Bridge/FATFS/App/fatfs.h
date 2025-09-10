@@ -47,3 +47,4 @@ void MX_FATFS_Init(void);
 #endif /*__fatfs_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

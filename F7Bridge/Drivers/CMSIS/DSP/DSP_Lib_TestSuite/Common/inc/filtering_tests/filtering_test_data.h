@@ -79,3 +79,4 @@ extern const int32_t filtering_tap_delay[FILTERING_MAX_NUMTAPS];
 /* Float Inputs */
 
 #endif
+

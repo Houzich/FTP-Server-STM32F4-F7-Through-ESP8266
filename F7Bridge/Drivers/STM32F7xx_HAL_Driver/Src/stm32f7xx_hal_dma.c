@@ -1305,3 +1305,4 @@ static HAL_StatusTypeDef DMA_CheckFifoParam(DMA_HandleTypeDef *hdma)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -1590,3 +1590,4 @@
 #endif /* __STM32F4xx_HAL_GPIO_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -52,3 +52,4 @@ extern const q15_t matrix_q15_scale_values[MATRIX_MAX_COEFFS_LEN];
 extern const int32_t matrix_shift_values[MATRIX_MAX_SHIFTS_LEN];
 
 #endif /* _MATRIX_TEST_DATA_H_ */
+

@@ -63,3 +63,4 @@ void ref_rms_q15(
 	tmp2 = ref_sat_q15(tmp1);
 	*pResult = (q15_t)(sqrtf((float)tmp2 / 32768.0f) * 32768.0f);
 }
+

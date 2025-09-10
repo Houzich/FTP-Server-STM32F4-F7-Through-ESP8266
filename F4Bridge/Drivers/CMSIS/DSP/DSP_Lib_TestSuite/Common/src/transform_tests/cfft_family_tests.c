@@ -181,3 +181,4 @@ JTEST_DEFINE_GROUP(cfft_family_tests)
     /* JTEST_TEST_CALL(arm_cfft_mag_q31_inverse_test); */
     /* JTEST_TEST_CALL(arm_cfft_mag_q15_inverse_test); */
 }
+

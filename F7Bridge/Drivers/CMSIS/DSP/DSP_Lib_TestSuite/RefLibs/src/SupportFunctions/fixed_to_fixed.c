@@ -77,3 +77,4 @@ void ref_q7_to_q15(
 		pDst[i] = ((q15_t)pSrc[i]) << 8;
 	}
 }
+

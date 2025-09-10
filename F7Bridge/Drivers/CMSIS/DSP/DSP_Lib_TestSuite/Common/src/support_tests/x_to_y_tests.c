@@ -78,3 +78,4 @@ JTEST_DEFINE_GROUP(x_to_y_tests)
     JTEST_TEST_CALL(arm_q7_to_q31_test);
     JTEST_TEST_CALL(arm_q7_to_q15_test);
 }
+

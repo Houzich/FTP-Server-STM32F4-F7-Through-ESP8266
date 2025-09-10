@@ -118,3 +118,4 @@
     }
 
 #endif /* _SUPPORT_TEMPLATES_H_ */
+

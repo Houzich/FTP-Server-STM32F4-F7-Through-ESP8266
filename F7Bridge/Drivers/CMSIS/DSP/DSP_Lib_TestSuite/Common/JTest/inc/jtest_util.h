@@ -25,3 +25,4 @@
     } while (0)
 
 #endif /* _JTEST_UTIL_H_ */
+

@@ -209,3 +209,4 @@ void BSP_TS_INT_MspInit(void);
 #endif /* __STM32F769I_DISCOVERY_TS_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

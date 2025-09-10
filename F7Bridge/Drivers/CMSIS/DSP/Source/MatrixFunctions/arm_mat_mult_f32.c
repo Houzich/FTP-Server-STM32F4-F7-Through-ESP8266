@@ -272,3 +272,4 @@ arm_status arm_mat_mult_f32(
 /**
  * @} end of MatrixMult group
  */
+

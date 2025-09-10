@@ -558,3 +558,4 @@ uint32_t HAL_I2S_GetError(I2S_HandleTypeDef *hi2s);
 #endif /* STM32F7xx_HAL_I2S_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

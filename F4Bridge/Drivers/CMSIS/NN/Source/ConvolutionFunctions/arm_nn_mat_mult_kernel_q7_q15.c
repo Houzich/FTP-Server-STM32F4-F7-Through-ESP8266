@@ -185,3 +185,4 @@ q7_t     *arm_nn_mat_mult_kernel_q7_q15(const q7_t * pA,
 #endif                          /* ARM_MATH_DSP */
 
 }
+

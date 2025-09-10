@@ -269,3 +269,4 @@ void ref_iir_lattice_q15(
     stgCnt--;
   }
 }
+

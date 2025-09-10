@@ -195,3 +195,4 @@ JTEST_DEFINE_GROUP(dct4_tests)
     JTEST_TEST_CALL(arm_dct4_q31_test);
     JTEST_TEST_CALL(arm_dct4_q15_test);
 }
+

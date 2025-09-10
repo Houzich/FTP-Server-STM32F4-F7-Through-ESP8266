@@ -2864,3 +2864,4 @@ static void SMARTCARD_RxISR(SMARTCARD_HandleTypeDef *hsmartcard)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

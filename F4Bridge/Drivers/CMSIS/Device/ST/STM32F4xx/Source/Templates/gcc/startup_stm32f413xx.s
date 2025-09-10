@@ -562,3 +562,4 @@ g_pfnVectors:
    .weak      DFSDM2_FLT3_IRQHandler
    .thumb_set DFSDM2_FLT3_IRQHandler,Default_Handler
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

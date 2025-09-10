@@ -225,3 +225,4 @@ void arm_scale_q31(
 /**
  * @} end of scale group
  */
+

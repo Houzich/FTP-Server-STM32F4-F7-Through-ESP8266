@@ -38,3 +38,4 @@ void ref_cmplx_conj_q15(
 		pDst[i+1] = -pSrc[i+1];
 	}
 }
+

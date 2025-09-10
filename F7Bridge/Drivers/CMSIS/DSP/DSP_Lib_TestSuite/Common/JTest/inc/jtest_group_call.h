@@ -124,3 +124,4 @@
         } while (0)
 
 #endif /* _JTEST_GROUP_CALL_H_ */
+

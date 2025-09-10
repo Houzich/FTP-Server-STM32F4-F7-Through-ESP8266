@@ -87,3 +87,4 @@ void ref_dct4_q15(
 		pInlineBuffer[i] = (q15_t)fSrc[i];
 	}
 }
+

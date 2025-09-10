@@ -29,3 +29,4 @@ JTEST_DEFINE_GROUP(cmplx_mag_squared_tests)
     JTEST_TEST_CALL(arm_cmplx_mag_squared_q31_test);
     JTEST_TEST_CALL(arm_cmplx_mag_squared_q15_test);
 }
+

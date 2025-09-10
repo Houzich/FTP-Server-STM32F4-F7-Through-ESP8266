@@ -1974,3 +1974,4 @@ __STATIC_INLINE void LL_APB2_GRP1_DisableClockLowPower(uint32_t Periphs)
 #endif /* __STM32F7xx_LL_BUS_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

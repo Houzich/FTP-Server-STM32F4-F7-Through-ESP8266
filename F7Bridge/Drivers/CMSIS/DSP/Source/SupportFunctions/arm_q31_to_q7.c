@@ -122,3 +122,4 @@ void arm_q31_to_q7(
 /**
  * @} end of q31_to_x group
  */
+

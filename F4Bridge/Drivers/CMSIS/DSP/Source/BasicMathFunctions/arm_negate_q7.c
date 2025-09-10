@@ -111,3 +111,4 @@ void arm_negate_q7(
 /**
  * @} end of negate group
  */
+

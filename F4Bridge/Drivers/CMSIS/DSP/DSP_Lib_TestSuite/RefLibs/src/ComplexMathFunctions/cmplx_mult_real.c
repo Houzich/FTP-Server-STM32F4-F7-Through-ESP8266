@@ -50,3 +50,4 @@ void ref_cmplx_mult_real_q15(
 		pCmplxDst[2*i+1] = ref_sat_q15(tempI);
 	}
 }
+

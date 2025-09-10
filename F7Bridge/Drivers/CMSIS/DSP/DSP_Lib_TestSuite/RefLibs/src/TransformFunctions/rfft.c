@@ -300,3 +300,4 @@ void ref_rfft_q15(
 		}
 	}
 }
+
