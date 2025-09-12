@@ -3462,3 +3462,4 @@ if((State_tmp == HAL_HASH_STATE_READY) || (State_tmp == HAL_HASH_STATE_SUSPENDED
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

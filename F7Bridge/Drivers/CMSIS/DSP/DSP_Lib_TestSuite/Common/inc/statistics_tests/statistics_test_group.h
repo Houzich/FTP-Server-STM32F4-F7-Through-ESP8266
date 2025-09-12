@@ -8,3 +8,4 @@ JTEST_DECLARE_GROUP(statistics_tests);
 
 #endif /* _STATISTICS_TEST_GROUP_H_ */
 
+

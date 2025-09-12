@@ -732,3 +732,4 @@ uint32_t HAL_SMBUS_GetError(SMBUS_HandleTypeDef *hsmbus);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

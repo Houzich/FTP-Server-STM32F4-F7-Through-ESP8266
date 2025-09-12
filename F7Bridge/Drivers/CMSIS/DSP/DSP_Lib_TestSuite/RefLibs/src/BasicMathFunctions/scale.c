@@ -68,3 +68,4 @@ void ref_scale_q7(
 	}
 }
 
+

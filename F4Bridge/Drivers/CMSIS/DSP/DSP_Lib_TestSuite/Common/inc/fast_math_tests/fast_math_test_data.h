@@ -28,3 +28,4 @@ extern const q15_t * fast_math_q15_inputs;
 
 #endif /* _FAST_MATH_TEST_DATA_H_ */
 
+

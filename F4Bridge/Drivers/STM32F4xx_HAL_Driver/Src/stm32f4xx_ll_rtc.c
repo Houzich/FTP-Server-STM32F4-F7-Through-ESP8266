@@ -875,3 +875,4 @@ ErrorStatus LL_RTC_WaitForSynchro(RTC_TypeDef *RTCx)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

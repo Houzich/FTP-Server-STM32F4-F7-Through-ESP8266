@@ -71,3 +71,4 @@ void arm_convolve_HWC_q7_ref(const q7_t * Im_in,    // input image
     }
 }
 
+

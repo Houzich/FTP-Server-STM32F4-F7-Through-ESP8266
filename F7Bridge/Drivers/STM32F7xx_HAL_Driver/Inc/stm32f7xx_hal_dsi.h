@@ -1336,3 +1336,4 @@ HAL_DSI_StateTypeDef HAL_DSI_GetState(DSI_HandleTypeDef *hdsi);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

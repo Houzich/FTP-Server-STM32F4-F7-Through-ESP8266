@@ -69,3 +69,4 @@ void ref_var_q15(
 	*pResult = (q31_t)((sumsq - (q63_t)sum * sum / (q63_t)blockSize) / ((q63_t)blockSize - 1)) >> 15;
 }
 
+

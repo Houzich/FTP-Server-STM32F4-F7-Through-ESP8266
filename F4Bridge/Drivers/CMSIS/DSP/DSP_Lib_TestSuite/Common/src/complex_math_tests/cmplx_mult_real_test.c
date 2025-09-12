@@ -30,3 +30,4 @@ JTEST_DEFINE_GROUP(cmplx_mult_real_tests)
     JTEST_TEST_CALL(arm_cmplx_mult_real_q15_test);
 }
 
+

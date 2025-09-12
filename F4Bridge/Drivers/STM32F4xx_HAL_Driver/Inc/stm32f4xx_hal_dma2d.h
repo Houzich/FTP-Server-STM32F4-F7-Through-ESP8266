@@ -629,3 +629,4 @@ uint32_t               HAL_DMA2D_GetError(DMA2D_HandleTypeDef *hdma2d);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -2671,3 +2671,4 @@ static void IRDA_SetConfig(IRDA_HandleTypeDef *hirda)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

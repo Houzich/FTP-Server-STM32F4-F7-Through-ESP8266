@@ -14,3 +14,4 @@ JTEST_DECLARE_GROUP(var_tests);
 
 #endif /* _STATISTICS_TESTS_H_ */
 
+

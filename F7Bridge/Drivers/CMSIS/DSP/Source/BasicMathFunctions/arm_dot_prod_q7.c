@@ -146,3 +146,4 @@ void arm_dot_prod_q7(
  * @} end of dot_prod group
  */
 
+

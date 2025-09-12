@@ -42,3 +42,4 @@ void arm_fully_connected_q7_ref(const q7_t * pV,    // pointer to vector
     }
 }
 
+

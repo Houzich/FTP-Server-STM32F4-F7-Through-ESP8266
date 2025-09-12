@@ -74,3 +74,4 @@ HAL_StatusTypeDef HAL_SPIEx_FlushRxFifo(SPI_HandleTypeDef *hspi);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

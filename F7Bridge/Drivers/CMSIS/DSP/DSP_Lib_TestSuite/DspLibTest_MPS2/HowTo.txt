@@ -27,3 +27,4 @@ Memory Settings:
   other:
     ROM: 0x00000000
     RAM: 0x20000000
+

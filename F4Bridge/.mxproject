@@ -50,3 +50,4 @@ HeaderPath=..\Drivers\STM32F4xx_HAL_Driver\Inc;..\Drivers\STM32F4xx_HAL_Driver\I
 CDefines=USE_HAL_DRIVER;STM32F401xC;USE_HAL_DRIVER;USE_HAL_DRIVER;
 
 
+

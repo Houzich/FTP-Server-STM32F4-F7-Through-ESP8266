@@ -794,3 +794,4 @@ uint32_t                      HAL_DFSDM_FilterGetError(DFSDM_Filter_HandleTypeDe
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

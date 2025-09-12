@@ -363,3 +363,4 @@ const float32_t fast_math_f32_inputs[FAST_MATH_MAX_LEN] =
        -2.6973871, 6.0088907, 3.6000853, 5.3389611
 };
 
+

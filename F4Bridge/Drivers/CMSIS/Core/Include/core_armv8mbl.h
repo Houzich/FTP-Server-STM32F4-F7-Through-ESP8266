@@ -1917,3 +1917,4 @@ __STATIC_INLINE uint32_t TZ_SysTick_Config_NS(uint32_t ticks)
 
 #endif /* __CMSIS_GENERIC */
 
+

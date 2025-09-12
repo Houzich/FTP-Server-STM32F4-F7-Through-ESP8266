@@ -1121,3 +1121,4 @@ static uint32_t FLASH_OB_GetPCROPRDP(void)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -73,3 +73,4 @@ void ref_std_q15(
 	*pResult = (q15_t)(sqrtf((float)ref_sat_q15( (sumsq - sum) >> 15) / 32768.0f ) * 32768.0f);
 }
 
+

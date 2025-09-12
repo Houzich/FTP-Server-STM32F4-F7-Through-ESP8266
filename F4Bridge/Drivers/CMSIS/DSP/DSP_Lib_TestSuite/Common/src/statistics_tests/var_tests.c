@@ -33,3 +33,4 @@ JTEST_DEFINE_GROUP(var_tests)
     JTEST_TEST_CALL(arm_var_q15_test);
 }
 
+

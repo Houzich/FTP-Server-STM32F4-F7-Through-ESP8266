@@ -83,3 +83,4 @@ q31_t arm_cos_q31(
  * @} end of cos group
  */
 
+

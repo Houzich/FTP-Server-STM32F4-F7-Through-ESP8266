@@ -91,3 +91,4 @@ JTEST_DEFINE_GROUP(mat_inverse_tests)
     JTEST_TEST_CALL(arm_mat_inverse_f64_test);
 }
 
+

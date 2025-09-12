@@ -3617,3 +3617,4 @@ static void UART_RxISR_16BIT(UART_HandleTypeDef *huart)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

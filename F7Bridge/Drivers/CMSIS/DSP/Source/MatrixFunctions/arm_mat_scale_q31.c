@@ -190,3 +190,4 @@ arm_status arm_mat_scale_q31(
  * @} end of MatrixScale group
  */
 
+

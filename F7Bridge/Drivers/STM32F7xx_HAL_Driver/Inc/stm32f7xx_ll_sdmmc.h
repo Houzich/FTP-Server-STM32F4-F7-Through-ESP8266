@@ -1016,3 +1016,4 @@ uint32_t SDMMC_CmdSwitch(SDMMC_TypeDef *SDMMCx, uint32_t Argument);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

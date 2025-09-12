@@ -2816,3 +2816,4 @@ static void USART_SetConfig(USART_HandleTypeDef *husart)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

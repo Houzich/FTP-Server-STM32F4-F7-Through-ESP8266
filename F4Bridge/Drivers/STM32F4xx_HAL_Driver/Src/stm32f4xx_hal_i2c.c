@@ -7337,3 +7337,4 @@ static void I2C_ConvertOtherXferOptions(I2C_HandleTypeDef *hi2c)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

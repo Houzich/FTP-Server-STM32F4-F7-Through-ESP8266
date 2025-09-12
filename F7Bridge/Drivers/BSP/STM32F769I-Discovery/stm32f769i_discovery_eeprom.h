@@ -137,3 +137,4 @@ HAL_StatusTypeDef EEPROM_IO_IsDeviceReady(uint16_t DevAddress, uint32_t Trials);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -355,3 +355,4 @@ HAL_StatusTypeDef HAL_ADCEx_MultiModeConfigChannel(ADC_HandleTypeDef* hadc, ADC_
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

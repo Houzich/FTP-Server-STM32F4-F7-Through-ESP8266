@@ -2141,3 +2141,4 @@ static void LTDC_SetConfig(LTDC_HandleTypeDef *hltdc, LTDC_LayerCfgTypeDef *pLay
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

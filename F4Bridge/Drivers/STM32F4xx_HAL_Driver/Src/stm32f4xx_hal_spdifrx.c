@@ -1622,3 +1622,4 @@ static HAL_StatusTypeDef SPDIFRX_WaitOnFlagUntilTimeout(SPDIFRX_HandleTypeDef *h
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

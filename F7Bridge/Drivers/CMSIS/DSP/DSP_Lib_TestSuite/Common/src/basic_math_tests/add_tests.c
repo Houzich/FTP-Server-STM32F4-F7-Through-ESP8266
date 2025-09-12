@@ -32,3 +32,4 @@ JTEST_DEFINE_GROUP(add_tests)
     JTEST_TEST_CALL(arm_add_q7_test);
 }
 
+

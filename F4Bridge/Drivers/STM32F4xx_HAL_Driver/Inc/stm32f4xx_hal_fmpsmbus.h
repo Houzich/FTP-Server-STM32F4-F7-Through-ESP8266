@@ -750,3 +750,4 @@ uint32_t HAL_FMPSMBUS_GetError(FMPSMBUS_HandleTypeDef *hfmpsmbus);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

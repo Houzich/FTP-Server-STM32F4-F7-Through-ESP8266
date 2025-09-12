@@ -694,3 +694,4 @@ void ref_lms_norm_q15(
   }
 }
 
+

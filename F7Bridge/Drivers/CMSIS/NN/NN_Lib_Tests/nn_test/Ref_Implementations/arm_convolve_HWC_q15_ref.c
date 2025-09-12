@@ -70,3 +70,4 @@ void arm_convolve_HWC_q15_ref(const q15_t * Im_in,  // input image
     }
 }
 
+

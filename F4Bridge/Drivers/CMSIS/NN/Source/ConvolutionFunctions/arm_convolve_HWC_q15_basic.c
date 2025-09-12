@@ -206,3 +206,4 @@ arm_convolve_HWC_q15_basic(const q15_t * Im_in,
  * @} end of NNConv group
  */
 
+

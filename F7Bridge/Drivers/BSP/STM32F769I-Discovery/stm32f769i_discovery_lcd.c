@@ -1954,3 +1954,4 @@ static void LL_ConvertLineToARGB8888(void *pSrc, void *pDst, uint32_t xSize, uin
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

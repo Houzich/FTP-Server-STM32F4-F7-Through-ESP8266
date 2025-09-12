@@ -183,3 +183,4 @@ HAL_StatusTypeDef HAL_I2CEx_ConfigDigitalFilter(I2C_HandleTypeDef *hi2c, uint32_
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

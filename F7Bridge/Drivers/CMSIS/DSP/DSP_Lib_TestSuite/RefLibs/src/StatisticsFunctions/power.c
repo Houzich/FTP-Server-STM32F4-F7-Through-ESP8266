@@ -60,3 +60,4 @@ void ref_power_q7(
 	*pResult = sumsq;
 }
 
+

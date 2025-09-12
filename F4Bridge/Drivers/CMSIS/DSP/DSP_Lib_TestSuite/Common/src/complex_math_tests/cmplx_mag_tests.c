@@ -30,3 +30,4 @@ JTEST_DEFINE_GROUP(cmplx_mag_tests)
     JTEST_TEST_CALL(arm_cmplx_mag_q15_test);
 }
 
+

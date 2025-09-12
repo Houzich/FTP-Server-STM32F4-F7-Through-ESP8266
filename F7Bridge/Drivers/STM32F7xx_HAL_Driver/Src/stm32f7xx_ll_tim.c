@@ -1377,3 +1377,4 @@ static ErrorStatus IC4Config(TIM_TypeDef *TIMx, LL_TIM_IC_InitTypeDef *TIM_ICIni
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

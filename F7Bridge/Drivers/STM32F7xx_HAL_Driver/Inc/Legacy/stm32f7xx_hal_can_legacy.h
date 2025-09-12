@@ -776,3 +776,4 @@ HAL_CAN_StateTypeDef HAL_CAN_GetState(CAN_HandleTypeDef* hcan);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

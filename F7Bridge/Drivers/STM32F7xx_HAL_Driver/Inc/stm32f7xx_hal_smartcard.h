@@ -1112,3 +1112,4 @@ uint32_t                   HAL_SMARTCARD_GetError(SMARTCARD_HandleTypeDef *hsmar
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

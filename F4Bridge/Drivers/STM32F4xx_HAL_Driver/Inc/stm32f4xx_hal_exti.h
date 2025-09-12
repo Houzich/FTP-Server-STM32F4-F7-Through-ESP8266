@@ -367,3 +367,4 @@ void HAL_EXTI_GenerateSWI(EXTI_HandleTypeDef *hexti);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -309,3 +309,4 @@ JTEST_DEFINE_GROUP(correlate_tests)
     JTEST_TEST_CALL(arm_correlate_fast_opt_q15_tests);
 }
 
+

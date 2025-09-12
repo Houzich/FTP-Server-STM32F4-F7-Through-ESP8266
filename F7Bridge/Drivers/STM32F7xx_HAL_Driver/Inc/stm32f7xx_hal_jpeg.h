@@ -651,3 +651,4 @@ uint32_t               HAL_JPEG_GetError(JPEG_HandleTypeDef *hjpeg);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

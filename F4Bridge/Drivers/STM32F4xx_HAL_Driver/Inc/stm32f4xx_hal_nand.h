@@ -380,3 +380,4 @@ HAL_NAND_StateTypeDef HAL_NAND_GetState(NAND_HandleTypeDef *hnand);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

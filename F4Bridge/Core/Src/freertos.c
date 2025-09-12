@@ -174,3 +174,4 @@ __weak void StartDefaultTask(void const * argument)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -4139,3 +4139,4 @@ static uint32_t JPEG_GetQuality(JPEG_HandleTypeDef *hjpeg)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

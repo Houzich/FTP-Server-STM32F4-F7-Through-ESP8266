@@ -507,3 +507,4 @@ g_pfnVectors:
    .thumb_set FMPI2C1_ER_IRQHandler,Default_Handler
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

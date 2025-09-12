@@ -126,3 +126,4 @@ void arm_rms_f32(
  * @} end of RMS group
  */
 
+

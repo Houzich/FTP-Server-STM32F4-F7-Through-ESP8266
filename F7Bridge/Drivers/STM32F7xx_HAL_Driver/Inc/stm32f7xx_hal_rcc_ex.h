@@ -3523,3 +3523,4 @@ HAL_StatusTypeDef HAL_RCCEx_DisablePLLSAI(void);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

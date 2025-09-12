@@ -37,3 +37,4 @@ JTEST_DEFINE_GROUP(fast_math_tests)
     JTEST_TEST_CALL(arm_cos_q15_test);
 }
 
+

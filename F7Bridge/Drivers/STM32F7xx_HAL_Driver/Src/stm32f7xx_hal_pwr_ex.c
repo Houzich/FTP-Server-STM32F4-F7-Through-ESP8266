@@ -553,3 +553,4 @@ HAL_StatusTypeDef HAL_PWREx_ControlVoltageScaling(uint32_t VoltageScaling)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

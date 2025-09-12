@@ -101,3 +101,4 @@
 
 #endif /* _FAST_MATH_TEMPLATES_H_ */
 
+

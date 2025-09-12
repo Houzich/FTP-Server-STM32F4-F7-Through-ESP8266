@@ -61,3 +61,4 @@ JTEST_DEFINE_GROUP(intrinsics_tests)
    JTEST_TEST_CALL(__SXTB16_test);
 }
 
+

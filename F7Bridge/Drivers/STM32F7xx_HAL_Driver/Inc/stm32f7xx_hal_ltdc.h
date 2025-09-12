@@ -688,3 +688,4 @@ uint32_t              HAL_LTDC_GetError(LTDC_HandleTypeDef *hltdc);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

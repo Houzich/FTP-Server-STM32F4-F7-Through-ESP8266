@@ -845,3 +845,4 @@ uint32_t             HAL_SPI_GetError(SPI_HandleTypeDef *hspi);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

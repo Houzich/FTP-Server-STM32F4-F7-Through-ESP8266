@@ -402,3 +402,4 @@ arm_fully_connected_mat_q7_vec_q15_opt(const q15_t * pV,
  * @} end of FC group
  */
 
+

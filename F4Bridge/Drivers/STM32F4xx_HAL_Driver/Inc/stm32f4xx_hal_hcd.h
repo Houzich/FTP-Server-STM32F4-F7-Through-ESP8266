@@ -320,3 +320,4 @@ uint32_t                HAL_HCD_GetCurrentSpeed(HCD_HandleTypeDef *hhcd);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

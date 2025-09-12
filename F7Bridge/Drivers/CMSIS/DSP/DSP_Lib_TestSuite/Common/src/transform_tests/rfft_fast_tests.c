@@ -74,3 +74,4 @@ JTEST_DEFINE_GROUP(rfft_fast_tests)
     JTEST_TEST_CALL(arm_rfft_fast_f32_inverse_test);
 }
 
+

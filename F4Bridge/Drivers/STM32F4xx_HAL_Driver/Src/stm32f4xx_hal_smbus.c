@@ -2790,3 +2790,4 @@ static HAL_StatusTypeDef SMBUS_WaitOnFlagUntilTimeout(SMBUS_HandleTypeDef *hsmbu
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

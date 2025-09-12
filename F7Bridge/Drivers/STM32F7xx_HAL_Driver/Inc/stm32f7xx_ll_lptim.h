@@ -1350,3 +1350,4 @@ __STATIC_INLINE uint32_t LL_LPTIM_IsEnabledIT_DOWN(LPTIM_TypeDef *LPTIMx)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

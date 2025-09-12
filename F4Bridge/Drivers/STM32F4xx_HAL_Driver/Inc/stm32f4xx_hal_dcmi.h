@@ -566,3 +566,4 @@ uint32_t              HAL_DCMI_GetError(DCMI_HandleTypeDef *hdcmi);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

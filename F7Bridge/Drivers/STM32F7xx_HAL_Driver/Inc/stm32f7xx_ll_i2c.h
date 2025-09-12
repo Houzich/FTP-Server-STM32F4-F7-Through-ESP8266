@@ -2188,3 +2188,4 @@ void LL_I2C_StructInit(LL_I2C_InitTypeDef *I2C_InitStruct);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

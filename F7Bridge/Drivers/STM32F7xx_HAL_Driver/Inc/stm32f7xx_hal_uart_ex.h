@@ -424,3 +424,4 @@ HAL_StatusTypeDef HAL_MultiProcessorEx_AddressLength_Set(UART_HandleTypeDef *hua
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

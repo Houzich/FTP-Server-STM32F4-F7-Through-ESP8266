@@ -188,3 +188,4 @@ const q63_t intrinsics_q63_inputs[INTRINSICS_MAX_LEN] =
    remain random. */
 const q31_t * intrinsics_q31_inputs = (q31_t *) intrinsics_q63_inputs;
 
+

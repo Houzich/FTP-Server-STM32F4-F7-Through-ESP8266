@@ -3,3 +3,4 @@ CMSIS DSP_Lib example arm_graphic_equalizer_example for
 
 The example is configured for uVision Simulator.
 
+

@@ -71,3 +71,4 @@ void ref_cmplx_dot_prod_q15(
 	*imagResult = (q31_t)(sumi >> 6);
 }
 
+

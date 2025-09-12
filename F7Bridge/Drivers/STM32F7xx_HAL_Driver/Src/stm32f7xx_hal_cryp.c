@@ -6966,3 +6966,4 @@ static HAL_StatusTypeDef CRYP_WaitOnCCFlag(CRYP_HandleTypeDef *hcryp, uint32_t T
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

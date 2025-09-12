@@ -752,3 +752,4 @@ HAL_StatusTypeDef     HAL_QSPI_SetFlashID      (QSPI_HandleTypeDef *hqspi, uint3
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

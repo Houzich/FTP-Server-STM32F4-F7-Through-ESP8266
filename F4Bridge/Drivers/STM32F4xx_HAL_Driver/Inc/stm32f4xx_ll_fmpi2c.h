@@ -2190,3 +2190,4 @@ void LL_FMPI2C_StructInit(LL_FMPI2C_InitTypeDef *FMPI2C_InitStruct);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

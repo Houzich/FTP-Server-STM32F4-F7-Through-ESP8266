@@ -42,3 +42,4 @@ void arm_fully_connected_q15_ref(const q15_t * pV,  // pointer to vector
     }
 }
 
+

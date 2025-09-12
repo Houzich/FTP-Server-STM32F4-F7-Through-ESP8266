@@ -33,3 +33,4 @@ JTEST_DEFINE_GROUP(rms_tests)
     JTEST_TEST_CALL(arm_rms_q15_test);
 }
 
+

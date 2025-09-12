@@ -197,3 +197,4 @@ HAL_StatusTypeDef HAL_SMARTCARDEx_DisableReceiverTimeOut(SMARTCARD_HandleTypeDef
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

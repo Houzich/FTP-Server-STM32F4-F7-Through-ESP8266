@@ -624,3 +624,4 @@ HAL_StatusTypeDef HMAC_Start_DMA(HASH_HandleTypeDef *hhash, uint8_t *pInBuffer, 
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -26,3 +26,4 @@ extern const q31_t *intrinsics_q31_inputs;
 
 #endif /* _INTRINSICS_TEST_DATA_H_ */
 
+

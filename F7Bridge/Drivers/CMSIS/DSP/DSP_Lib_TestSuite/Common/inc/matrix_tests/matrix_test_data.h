@@ -53,3 +53,4 @@ extern const int32_t matrix_shift_values[MATRIX_MAX_SHIFTS_LEN];
 
 #endif /* _MATRIX_TEST_DATA_H_ */
 
+

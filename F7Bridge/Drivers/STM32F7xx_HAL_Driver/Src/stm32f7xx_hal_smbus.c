@@ -2672,3 +2672,4 @@ static void SMBUS_ConvertOtherXferOptions(struct __SMBUS_HandleTypeDef *hsmbus)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

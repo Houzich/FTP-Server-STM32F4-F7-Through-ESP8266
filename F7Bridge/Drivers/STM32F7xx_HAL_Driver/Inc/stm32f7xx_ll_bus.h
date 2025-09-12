@@ -1975,3 +1975,4 @@ __STATIC_INLINE void LL_APB2_GRP1_DisableClockLowPower(uint32_t Periphs)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

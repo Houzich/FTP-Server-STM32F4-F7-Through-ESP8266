@@ -60,3 +60,4 @@ void ref_mean_q7(
 	*pResult = (q7_t) (sum / (int32_t) blockSize);
 }
 
+

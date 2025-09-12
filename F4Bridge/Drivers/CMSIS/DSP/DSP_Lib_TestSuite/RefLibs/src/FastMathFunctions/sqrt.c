@@ -14,3 +14,4 @@ arm_status ref_sqrt_q15(q15_t in, q15_t * pOut)
 	return ARM_MATH_SUCCESS;
 }
 
+

@@ -568,3 +568,4 @@ HAL_MDIOS_StateTypeDef HAL_MDIOS_GetState(MDIOS_HandleTypeDef *hmdios);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

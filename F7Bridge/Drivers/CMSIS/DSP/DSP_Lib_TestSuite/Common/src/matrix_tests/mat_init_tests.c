@@ -57,3 +57,4 @@ JTEST_DEFINE_GROUP(mat_init_tests)
     JTEST_TEST_CALL(arm_mat_init_q15_test);
 }
 
+

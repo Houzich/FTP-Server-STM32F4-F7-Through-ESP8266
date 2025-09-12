@@ -570,3 +570,4 @@ void LL_I2S_ConfigPrescaler(SPI_TypeDef *SPIx, uint32_t PrescalerLinear, uint32_
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

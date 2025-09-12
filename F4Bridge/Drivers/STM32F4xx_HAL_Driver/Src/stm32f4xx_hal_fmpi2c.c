@@ -6635,3 +6635,4 @@ static void FMPI2C_ConvertOtherXferOptions(FMPI2C_HandleTypeDef *hfmpi2c)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

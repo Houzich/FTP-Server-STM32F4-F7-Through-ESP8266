@@ -742,3 +742,4 @@ uint32_t HAL_I2C_GetError(I2C_HandleTypeDef *hi2c);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

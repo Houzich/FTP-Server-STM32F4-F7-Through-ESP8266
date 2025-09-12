@@ -8,3 +8,4 @@ JTEST_DECLARE_GROUP(matrix_tests);
 
 #endif /* _MATRIX_TEST_GROUP_H_ */
 
+

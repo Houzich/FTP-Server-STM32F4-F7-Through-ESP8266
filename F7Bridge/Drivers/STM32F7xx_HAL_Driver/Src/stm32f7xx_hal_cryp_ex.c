@@ -673,3 +673,4 @@ void  HAL_CRYPEx_DisableAutoKeyDerivation(CRYP_HandleTypeDef *hcryp)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

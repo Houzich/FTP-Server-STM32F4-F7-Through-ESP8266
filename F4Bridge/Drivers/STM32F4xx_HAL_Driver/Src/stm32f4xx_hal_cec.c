@@ -1000,3 +1000,4 @@ uint32_t HAL_CEC_GetError(CEC_HandleTypeDef *hcec)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

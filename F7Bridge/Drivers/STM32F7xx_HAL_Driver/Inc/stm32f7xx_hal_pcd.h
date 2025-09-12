@@ -435,3 +435,4 @@ PCD_StateTypeDef HAL_PCD_GetState(PCD_HandleTypeDef *hpcd);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

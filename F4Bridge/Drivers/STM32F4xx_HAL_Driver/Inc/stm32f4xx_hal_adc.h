@@ -896,3 +896,4 @@ uint32_t HAL_ADC_GetError(ADC_HandleTypeDef *hadc);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

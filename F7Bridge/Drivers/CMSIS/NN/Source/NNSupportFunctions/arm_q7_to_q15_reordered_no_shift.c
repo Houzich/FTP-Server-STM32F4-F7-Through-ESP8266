@@ -144,3 +144,4 @@ void arm_q7_to_q15_reordered_no_shift(const q7_t * pSrc, q15_t * pDst, uint32_t 
  * @} end of q7_to_x group    
  */
 
+

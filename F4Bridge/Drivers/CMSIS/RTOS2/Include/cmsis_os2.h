@@ -755,3 +755,4 @@ osStatus_t osMessageQueueDelete (osMessageQueueId_t mq_id);
  
 #endif  // CMSIS_OS2_H_
 
+

@@ -75,3 +75,4 @@ q15_t arm_sin_q15(
  * @} end of sin group
  */
 
+

@@ -150,3 +150,4 @@ JTEST_DEFINE_GROUP(sin_cos_tests)
     JTEST_TEST_CALL(arm_sin_cos_q31_test);
 }
 
+

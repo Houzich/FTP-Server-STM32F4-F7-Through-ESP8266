@@ -3,3 +3,4 @@ CMSIS NN Lib example arm_nnexample_gru0 for
 
 The example is configured for uVision Simulator.
 
+

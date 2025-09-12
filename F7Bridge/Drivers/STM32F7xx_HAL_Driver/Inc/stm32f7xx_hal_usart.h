@@ -876,3 +876,4 @@ uint32_t               HAL_USART_GetError(USART_HandleTypeDef *husart);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

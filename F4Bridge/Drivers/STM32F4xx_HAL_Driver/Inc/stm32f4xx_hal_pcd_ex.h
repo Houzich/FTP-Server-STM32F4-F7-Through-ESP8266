@@ -90,3 +90,4 @@ void HAL_PCDEx_BCD_Callback(PCD_HandleTypeDef *hpcd, PCD_BCD_MsgTypeDef msg);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

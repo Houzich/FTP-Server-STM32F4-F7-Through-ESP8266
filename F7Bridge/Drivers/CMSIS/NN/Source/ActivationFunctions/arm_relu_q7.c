@@ -109,3 +109,4 @@ void arm_relu_q7(q7_t * data, uint16_t size)
  * @} end of Acti group
  */
 
+

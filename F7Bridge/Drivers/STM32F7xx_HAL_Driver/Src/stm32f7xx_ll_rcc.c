@@ -1582,3 +1582,4 @@ uint32_t RCC_PLLI2S_GetFreqDomain_I2S(void)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

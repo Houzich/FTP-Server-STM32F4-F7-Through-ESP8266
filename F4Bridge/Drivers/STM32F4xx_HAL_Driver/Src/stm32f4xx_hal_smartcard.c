@@ -2368,3 +2368,4 @@ static void SMARTCARD_SetConfig(SMARTCARD_HandleTypeDef *hsc)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

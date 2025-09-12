@@ -672,3 +672,4 @@ uint32_t HAL_CRYP_GetError(CRYP_HandleTypeDef *hcryp);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

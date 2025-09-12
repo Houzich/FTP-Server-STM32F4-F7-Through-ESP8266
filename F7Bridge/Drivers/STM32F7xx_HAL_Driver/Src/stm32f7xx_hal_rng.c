@@ -873,3 +873,4 @@ uint32_t HAL_RNG_GetError(RNG_HandleTypeDef *hrng)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

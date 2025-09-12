@@ -45,3 +45,4 @@ void ref_cmplx_mag_squared_q15(
 	}
 }
 
+

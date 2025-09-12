@@ -2452,3 +2452,4 @@ void LPTIM_Disable(LPTIM_HandleTypeDef *hlptim)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+
